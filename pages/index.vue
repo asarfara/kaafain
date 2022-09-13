@@ -4,6 +4,11 @@
 <template>
   <div>
     <ComingSoon />
+<!--    <Header />-->
+<!--    <Banner />-->
+<!--    <HowWeWork />-->
+<!--    <GetInTouch />-->
+<!--    <Footer />-->
   </div>
 </template>
 
